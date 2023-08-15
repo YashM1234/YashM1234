@@ -31,17 +31,22 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee " /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashm1234&show_icons=true&locale=en&layout=compact" alt="yashm1234" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashm1234&" alt="yashm1234" /></p>
-
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashm1234&theme=radical" alt="Yash" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yashm1234&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashm1234&theme=radical&langs_count=8" alt="Yash" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=yashm1234&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
 <br><br>
 <h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/yashmungolerpg?ext=activity" />
 <br /><br />
-<img width="100%" alt="Screenshot 2022-11-05 at 2 09 40 PM" src="https://user-images.githubusercontent.com/90475607/200111350-c40d51b2-7c5e-4315-b800-48d13816f118.png">
-
-
 </div>  
+ 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
