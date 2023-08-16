@@ -53,15 +53,12 @@
 <h2 align="center">📊 My Github Stats<h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashm1234&theme=radical" alt="Yash" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yashm1234&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yashm1234&show_icons=true&theme=radical" height="250px" width="47%"/>
+</div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashm1234&theme=radical&langs_count=8" alt="Yash" height="260px" width="30%" />
+</div>
 <div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashm1234&theme=radical&langs_count=8" alt="Yash" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=yashm1234&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
-<br><br>
 <h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/yashmungolerpg?ext=activity" />
