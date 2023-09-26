@@ -1,4 +1,4 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashm1234" alt="Yash" /> </p><h1 align="center">Hi 👋, I'm Yash Mungole</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashm1234" alt="Yash" /> </p><h1 align="center">Hi 👋, I'm Yash Mungole</h1>
 
 <h3 align="center">A passionate backend developer from India</h3>
 
