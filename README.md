@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Restaurant project](https://github.com/YashM1234/bootcoding-project-training)
+- 🔭 I’m currently working on [Student project](https://github.com/YashM1234/student.git)
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java,Spring Boot, DSA**
 
 - ⚡ Fun fact **I think I am funny😄**
 
