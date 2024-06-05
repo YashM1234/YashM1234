@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Location Management Project](https://github.com/YashM1234/location-management)
+- 🔭 I’m currently working on [Cafe Management System](https://github.com/YashM1234/CafeManagementSystem)
 
 - 🌱 I’m currently learning **Spring boot**
 
